@@ -1,2 +1,2 @@
 # CNN-for-Malaria-Diagnosis
- The model is trained on a dataset of blood smear images to distinguish between infected and uninfected cells using "Tensorflow" and "Keras".
+ Dive into the realm of medical image analysis with this repository, featuring a Convolutional Neural Network (CNN) tailored for malaria diagnosis. The model is trained on a dataset of blood smear images to distinguish between infected and uninfected cells, aiding in the automated detection of malaria. The repository includes code for dataset preparation, model training, and evaluation, offering a valuable resource for those interested in leveraging CNNs for medical image classification tasks.
